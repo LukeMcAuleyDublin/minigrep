@@ -3,7 +3,7 @@ use std::fs;
 
 pub struct Config {
     query: String,
-    file_path: String
+    file_path: String,
 }
 
 impl Config {
